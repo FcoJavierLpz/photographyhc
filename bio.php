@@ -57,7 +57,7 @@
                         <div class="col-md-4"></div>
                         <div class="col-md-4 text-center">
                             <div class="figure element-top-100 element-bottom-20 os-animation" data-os-animation="fadeIn" data-os-animation-delay="0.1s"> <span class="figure-image">
-                            <img alt="" src="assets/images/photography/photography-logo-small.png">
+                            <img alt="" src="assets/images/photography/logosmall.png">
                         </span> </div>
                             <div class="element-top-20 element-bottom-100 os-animation" data-os-animation="fadeIn" data-os-animation-delay="0.2s">
                                 <ul class="social-icons text-light social-lg social-simple social-circle">
