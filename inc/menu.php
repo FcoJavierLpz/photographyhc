@@ -3,7 +3,7 @@
         <div class="container">
             <div class="navbar-header">
                 <button class="navbar-toggle collapsed" data-target=".main-navbar" data-toggle="collapse" type="button"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-                <a class="navbar-brand" href="index.php"> <img alt="Lambda - Charity" src="assets/img/logo1.png"> </a>
+                <a class="navbar-brand" href="index.php"> <img alt="Lambda - Charity" src="assets/img/logo.png"> </a>
                 <div class="logo-sidebar"></div>
             </div>
         </div>
