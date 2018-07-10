@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
-    <title> Gallery | Lambda</title>
+    <title> Gallery | Patricia Hernández</title>
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
     <link href="//fonts.googleapis.com/css?family=Roboto:300,300italic,400,700%7CRoboto+Condensed:400,700%7CRoboto+Slab:100,300,400,700&amp;subset=latin,latin,latin" rel="stylesheet" type="text/css">
     <style type="text/css" media="screen">
