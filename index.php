@@ -425,18 +425,20 @@
                         <div class="col-md-4"></div>
                         <div class="col-md-4 text-center">
                             <div class="figure element-top-100 element-bottom-20 os-animation" data-os-animation="fadeIn" data-os-animation-delay="0.1s"> <span class="figure-image">
-                            <img alt="small logo" src="assets/images/photography/logosmall.png">
+                            <a href="#home">
+                                <img alt="small logo" src="assets/images/photography/logosmall.png">
+                            </a>
                         </span> </div>
                             <div class="element-top-20 element-bottom-100 os-animation" data-os-animation="fadeIn" data-os-animation-delay="0.2s">
                                 <ul class="social-icons text-light social-lg social-simple social-circle">
                                     <li>
-                                        <a href="#" target="_blank" style="background-color:#ffffff" ;> <i class="fa fa-twitter"></i> </a>
+                                        <a href="https://www.instagram.com/pattyvanhc/" target="_blank" style="background-color:#ffffff" ;> <i class="fa fa-instagram"></i> </a>
                                     </li>
                                     <li>
-                                        <a href="#" target="_blank" style="background-color:#ffffff" ;=""> <i class="fa fa-facebook"></i> </a>
+                                        <a href="https://www.facebook.com/pattyvanh/" target="_blank" style="background-color:#ffffff" ;> <i class="fa fa-facebook"></i> </a>
                                     </li>
                                     <li>
-                                        <a href="#" target="_blank" style="background-color:#ffffff" ;=""> <i class="fa fa-pinterest"></i> </a>
+                                        <a href="https://open.spotify.com/user/12183586333/playlist/0kN2vep0DqYbuBkZih59s7" target="_blank" style="background-color:#ffffff" ;> <i class="fa fa-spotify"></i> </a>
                                     </li>
                                 </ul>
                             </div>
