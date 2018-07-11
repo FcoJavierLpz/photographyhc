@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/theme.min.css">
     <link rel="stylesheet" href="assets/css/photography.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
     <link rel="apple-touch-icon" sizes="57x57" href="assets/images/favicons/apple-touch-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="assets/images/favicons/apple-touch-icon-60x60.png">
     <link rel="apple-touch-icon" sizes="72x72" href="assets/images/favicons/apple-touch-icon-72x72.png">
@@ -23,7 +24,7 @@
     <link rel="icon" type="image/png" href="assets/images/favicons/favicon-32x32.png" sizes="32x32">
     <link rel="icon" type="image/png" href="assets/images/favicons/favicon-96x96.png" sizes="96x96">
     <link rel="icon" type="image/png" href="assets/images/favicons/favicon-16x16.png" sizes="16x16">
-    <link rel="shortcut icon" href="assets/images/favicons/favicon.ico"> 
+    <link rel="shortcut icon" href="assets/images/favicons/favicon.ico">                
 </head>
 
 <body class="transparent-header transparent-menu-below pace-on pace-minimal">
@@ -412,9 +413,10 @@
     </script>
     <script src="assets/js/theme.min.js"></script>
     <script src="assets/js/revolution.min.js"></script>
+    <script src="assets/js/app.js"></script>
     <script type="text/javascript">
         jQuery(document).ready(function()
-        {
+        {   
             jQuery('.tp-banner').show().revolution(
             {
                 dottedOverlay: "none",

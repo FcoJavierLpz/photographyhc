@@ -16,9 +16,16 @@
                         <li class="menu-item <?php if ($page_name == 'index.php'): ?>
                             active
                         <?php endif ?>"> <a href="index.php">Home</a> </li>
-                        <li class="menu-item <?php if ($page_name == 'bio.php'): ?>
+                        <li class="dropdown <?php if ($page_name == 'bio.php'): ?>
                             active
-                        <?php endif ?> "> <a href="bio.php">Bio</a> </li>
+                        <?php endif ?> "> 
+                            <a target="_blank" href="bio.php" class="dropdown-toggle" data-toggle="dropdown">Bio</a> 
+                            <ul class="dropdown-menu">
+                              <li style="font-size: 18px;"><a href="#">Patricia Hernández</a></li>
+                              <li class="divider"></li>
+                              <li style="font-size: 18px;"><a href="#">Colaboradores</a></li>
+                            </ul>
+                        </li>
                         <li class="menu-item <?php if ($page_name == 'portafolio.php'): ?>
                             active
                         <?php endif ?> "> <a href="portafolio.php">Portafolio</a> </li>

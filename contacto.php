@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/theme.min.css">
     <link rel="stylesheet" href="assets/css/photography.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
     <link rel="apple-touch-icon" sizes="57x57" href="assets/images/favicons/apple-touch-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="assets/images/favicons/apple-touch-icon-60x60.png">
     <link rel="apple-touch-icon" sizes="72x72" href="assets/images/favicons/apple-touch-icon-72x72.png">
@@ -119,6 +120,7 @@
         };
     </script>
     <script src="assets/js/theme.min.js"></script>
+    <script src="assets/js/app.js"></script>
 </body>
 
 </html>

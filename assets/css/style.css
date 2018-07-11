@@ -1,0 +1,23 @@
+@media only screen and (min-width: 768px) {
+  .dropdown:hover .dropdown-menu {
+    display: block; 
+    margin-top: 0;
+  }
+}
+
+.transparent-header #masthead:not(.navbar-scrolled) .dropdown-menu li a {
+    color: #fff;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.menu .dropdown-menu {
+    background: linear-gradient(270deg, transparent, black);
+    position: absolute;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown:hover .dropdown-menu, #navbar-slide.menu .dropdown-menu {display: block;}
