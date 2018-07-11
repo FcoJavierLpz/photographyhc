@@ -134,7 +134,7 @@
                                 <div class="portfolio masonry no-transition magnific-all" data-col-lg="4" data-col-md="4" data-col-sm="3" data-col-xs="2" data-layout="fitRows" data-padding="0">
                                     <div class="masonry-item portfolio-item filter-gallery filter-nature filter-people" data-comments="0" data-date="2015-07-09T12:43:42+00:00" data-menu-order="0" data-title="Clouds">
                                         <div class="figure element-top-0 element-bottom-0 portfolio-os-animation image-filter-grayscale image-filter-onhover from-top text-center figcaption-middle normalwidth" data-os-animation="fadeIn" data-os-animation-delay="0s">
-                                            <a class="figure-image magnific image-all" data-links="" href="assets/images/photography/photo-clouds.jpg" target="_self" title="Clouds"> <img alt="Clouds" class="normalwidth" src="assets/images/photography/photo-clouds.jpg">
+                                            <a class="figure-image magnific image-all" data-links="" href="assets/images/index/grilla1.jpg" target="_self" title="Clouds"> <img alt="Clouds" class="normalwidth" src="assets/images/index/grilla1.jpg">
                                                 <div class="figure-overlay grid-overlay-10">
                                                     <div class="figure-overlay-container">
                                                         <div class="figure-caption">
@@ -148,7 +148,7 @@
                                     </div>
                                     <div class="masonry-item portfolio-item filter-gallery filter-nature" data-comments="0" data-date="2015-07-06T11:14:36+00:00" data-menu-order="1" data-title="Forest">
                                         <div class="figure element-top-0 element-bottom-0 portfolio-os-animation image-filter-grayscale image-filter-onhover from-top text-center figcaption-middle normalwidth" data-os-animation="fadeIn" data-os-animation-delay="0.2s">
-                                            <a class="figure-image magnific image-all" data-links="" href="assets/images/photography/photo-trees.jpg" target="" title="Trees"> <img alt="Forest" class="normalwidth" src="assets/images/photography/photo-trees.jpg">
+                                            <a class="figure-image magnific image-all" data-links="" href="assets/images/index/grilla2.jpg" target="" title="Trees"> <img alt="Forest" class="normalwidth" src="assets/images/index/grilla2.jpg">
                                                 <div class="figure-overlay grid-overlay-10">
                                                     <div class="figure-overlay-container">
                                                         <div class="figure-caption">
@@ -162,7 +162,7 @@
                                     </div>
                                     <div class="masonry-item portfolio-item filter-gallery filter-nature" data-comments="0" data-date="2015-07-06T11:14:36+00:00" data-menu-order="2" data-title="Waves">
                                         <div class="figure element-top-0 element-bottom-0 portfolio-os-animation image-filter-grayscale image-filter-onhover from-top text-center figcaption-middle normalwidth" data-os-animation="fadeIn" data-os-animation-delay="0.4s">
-                                            <a class="figure-image magnific image-all" data-links="" href="assets/images/photography/photo-splash.jpg" target="" title="Waves"> <img alt="Waves" class="normalwidth" src="assets/images/photography/photo-splash.jpg">
+                                            <a class="figure-image magnific image-all" data-links="" href="assets/images/index/grilla3.jpg" target="" title="Waves"> <img alt="Waves" class="normalwidth" src="assets/images/index/grilla3.jpg">
                                                 <div class="figure-overlay grid-overlay-10">
                                                     <div class="figure-overlay-container">
                                                         <div class="figure-caption">
@@ -176,7 +176,7 @@
                                     </div>
                                     <div class="masonry-item portfolio-item filter-city filter-gallery" data-comments="0" data-date="2015-07-06T11:14:36+00:00" data-menu-order="3" data-title="Bridge">
                                         <div class="figure element-top-0 element-bottom-0 portfolio-os-animation image-filter-grayscale image-filter-onhover from-top text-center figcaption-middle normalwidth" data-os-animation="fadeIn" data-os-animation-delay="0.6s">
-                                            <a class="figure-image magnific image-all" data-captions="Processed with VSCOcam with c1 preset" data-links="" href="assets/images/photography/photo-bridge.jpg" target="" title="Bridge"> <img alt="Bridge" class="normalwidth" src="assets/images/photography/photo-bridge.jpg">
+                                            <a class="figure-image magnific image-all" data-captions="Processed with VSCOcam with c1 preset" data-links="" href="assets/images/index/grilla4.jpg" target="" title="Bridge"> <img alt="Bridge" class="normalwidth" src="assets/images/index/grilla4.jpg">
                                                 <div class="figure-overlay grid-overlay-10">
                                                     <div class="figure-overlay-container">
                                                         <div class="figure-caption">
@@ -190,7 +190,7 @@
                                     </div>
                                     <div class="masonry-item portfolio-item filter-gallery filter-nature" data-comments="0" data-date="2015-07-06T11:14:36+00:00" data-menu-order="4" data-title="Forest">
                                         <div class="figure element-top-0 element-bottom-0 portfolio-os-animation image-filter-grayscale image-filter-onhover from-top text-center figcaption-middle normalwidth" data-os-animation="fadeIn" data-os-animation-delay="0.8s">
-                                            <a class="figure-image magnific image-all" data-links="" href="assets/images/photography/photo-woods.jpg" target="" title="Forest"> <img alt="Forest" class="normalwidth" src="assets/images/photography/photo-woods.jpg">
+                                            <a class="figure-image magnific image-all" data-links="" href="assets/images/index/grilla5.jpg" target="" title="Forest"> <img alt="Forest" class="normalwidth" src="assets/images/index/grilla5.jpg">
                                                 <div class="figure-overlay grid-overlay-10">
                                                     <div class="figure-overlay-container">
                                                         <div class="figure-caption">

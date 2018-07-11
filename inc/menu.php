@@ -21,9 +21,9 @@
                         <?php endif ?> "> 
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Bio</a> 
                             <ul class="dropdown-menu">
-                              <li style="font-size: 18px;"><a target="_blank" href="bio.php">Patricia Hernández</a></li>
+                              <li style="font-size: 18px;"><a target="_self" href="bio.php">Patricia Hernández</a></li>
                               <li class="divider"></li>
-                              <li style="font-size: 18px;"><a target="_blank" href="bio.php">Colaboradores</a></li>
+                              <li style="font-size: 18px;"><a target="_self" href="bio.php">Colaboradores</a></li>
                             </ul>
                         </li>
                         <li class="menu-item <?php if ($page_name == 'portafolio.php'): ?>
