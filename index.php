@@ -362,7 +362,7 @@
                 </div>
             </section>
             <section class="section">
-                <div class="background-media" style="background-image: url(assets/images/photography/photo-alpes-1600x900.jpg); background-repeat:no-repeat; background-size:cover; background-attachment:fixed; background-position: 50% 0%;"> </div>
+                <div class="background-media" style="background-image: url(assets/images/index/indexfooter.jpg); background-repeat:no-repeat; background-size:cover; background-attachment:fixed; background-position: 50% 0%;"> </div>
                 <div class="background-overlay grid-overlay-0" style="background-color: rgba(0,0,0,0.5);"></div>
                 <div class="container-fullwidth">
                     <div class="row">
