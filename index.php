@@ -355,62 +355,6 @@
                                             </a>
                                         </div>
                                     </div>
-                                    <div class="masonry-item portfolio-item filter-gallery filter-nature" data-comments="0" data-date="2015-07-06T11:14:36+00:00" data-menu-order="17" data-title="Infinity">
-                                        <div class="figure element-top-0 element-bottom-0 portfolio-os-animation image-filter-grayscale image-filter-onhover from-top text-center figcaption-middle normalwidth" data-os-animation="fadeIn" data-os-animation-delay="3.2s">
-                                            <a class="figure-image magnific image-all" data-links="" href="assets/images/photography/photo-infinity.jpg" target="" title="Infinity"> <img alt="Infinity" class="normalwidth" src="assets/images/photography/photo-infinity.jpg">
-                                                <div class="figure-overlay grid-overlay-10">
-                                                    <div class="figure-overlay-container">
-                                                        <div class="figure-caption">
-                                                            <h3 class="figure-caption-title bordered bordered-small">Infinity</h3>
-                                                            <p class="figure-caption-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta accumsan ante.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="masonry-item portfolio-item filter-gallery filter-nature filter-people" data-comments="0" data-date="2015-07-06T11:14:36+00:00" data-menu-order="18" data-title="Jump">
-                                        <div class="figure element-top-0 element-bottom-0 portfolio-os-animation image-filter-grayscale image-filter-onhover from-top text-center figcaption-middle normalwidth" data-os-animation="fadeIn" data-os-animation-delay="3.4s">
-                                            <a class="figure-image magnific image-all" data-links="" href="assets/images/photography/photo-jump.jpg" target="" title="Jump"> <img alt="Jump" class="normalwidth" src="assets/images/photography/photo-jump.jpg">
-                                                <div class="figure-overlay grid-overlay-10">
-                                                    <div class="figure-overlay-container">
-                                                        <div class="figure-caption">
-                                                            <h3 class="figure-caption-title bordered bordered-small">Jump</h3>
-                                                            <p class="figure-caption-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta accumsan ante.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="masonry-item portfolio-item filter-city filter-gallery" data-comments="0" data-date="2015-07-06T11:14:36+00:00" data-menu-order="19" data-title="Bridge">
-                                        <div class="figure element-top-0 element-bottom-0 portfolio-os-animation image-filter-grayscale image-filter-onhover from-top text-center figcaption-middle normalwidth" data-os-animation="fadeIn" data-os-animation-delay="3.6s">
-                                            <a class="figure-image magnific image-all" data-links="" href="assets/images/photography/photo-long-bridge.jpg" target="" title="Bridge"> <img alt="Bridge" class="normalwidth" src="assets/images/photography/photo-long-bridge.jpg">
-                                                <div class="figure-overlay grid-overlay-10">
-                                                    <div class="figure-overlay-container">
-                                                        <div class="figure-caption">
-                                                            <h3 class="figure-caption-title bordered bordered-small">Bridge</h3>
-                                                            <p class="figure-caption-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta accumsan ante.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
-                                    <div class="masonry-item portfolio-item filter-gallery filter-nature" data-comments="0" data-date="2015-07-06T11:14:36+00:00" data-menu-order="20" data-title="Endless blue">
-                                        <div class="figure element-top-0 element-bottom-0 portfolio-os-animation image-filter-grayscale image-filter-onhover from-top text-center figcaption-middle normalwidth" data-os-animation="fadeIn" data-os-animation-delay="3.8s">
-                                            <a class="figure-image magnific image-all" data-links="" href="assets/images/photography/photo-endless-blue.jpg" target="" title="Endless blue"> <img alt="Endless blue" class="normalwidth" src="assets/images/photography/photo-endless-blue.jpg">
-                                                <div class="figure-overlay grid-overlay-10">
-                                                    <div class="figure-overlay-container">
-                                                        <div class="figure-caption">
-                                                            <h3 class="figure-caption-title bordered bordered-small">Endless blue</h3>
-                                                            <p class="figure-caption-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta accumsan ante.</p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </a>
-                                        </div>
-                                    </div>
                                 </div>
                             </div>
                         </div>
